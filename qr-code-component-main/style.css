@@ -1,0 +1,43 @@
+body{
+    background-color: #d6e1f0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.big-box {
+    width: 320px;
+    height: 495px;
+    background-color: white;
+    display: flex;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+
+}
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    
+}
+h1 {
+    margin: 1px;
+    text-align: center;
+    font-size:x-large;
+    width: 290px;
+    text-shadow: 10cm;
+
+
+}
+
+p{
+    opacity: 0.6;
+    text-align: center;
+    width: 250px;
+    margin-top: 0px;
+}
